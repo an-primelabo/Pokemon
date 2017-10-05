@@ -1,0 +1,16 @@
+INSERT INTO pkm_egg_groups (egg_group_id, name, name_alias)
+VALUES (1, 'Monster', 'monster'),
+(2, 'Water 1', 'water1'),
+(3, 'Bug', 'bug'),
+(4, 'Flying', 'flying'),
+(5, 'Field', 'ground'),
+(6, 'Fairy', 'fairy'),
+(7, 'Grass', 'plant'),
+(8, 'Human-Like', 'humanshape'),
+(9, 'Water 3', 'water3'),
+(10, 'Mineral', 'mineral'),
+(11, 'Amorphous', 'indeterminate'),
+(12, 'Water 2', 'water2'),
+(13, 'Ditto', 'ditto'),
+(14, 'Dragon', 'dragon'),
+(15, 'Undiscovered', 'no-eggs');

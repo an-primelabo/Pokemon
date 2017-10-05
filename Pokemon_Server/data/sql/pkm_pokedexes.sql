@@ -1,0 +1,15 @@
+INSERT INTO pkm_pokedexes (pokedex_id, region_id, name, name_alias, description, is_main_series)
+VALUES (1, null, 'National', 'national', 'Entire National dex', 'TRUE'),
+(2, 1, 'Kanto', 'kanto', 'Red/Blue/Yellow Kanto dex', 'TRUE'),
+(3, 2, 'Original Johto', 'original-johto', 'Gold/Silver/Crystal Johto dex—called the "New" Pokédex in-game', 'TRUE'),
+(4, 3, 'Original Hoenn', 'hoenn', 'Ruby/Sapphire/Emerald Hoenn dex', 'TRUE'),
+(5, 4, 'Original Sinnoh', 'original-sinnoh', 'Diamond/Pearl Sinnoh dex', 'TRUE'),
+(6, 4, 'Extended Sinnoh', 'extended-sinnoh', 'Platinum Sinnoh dex—an extended version of Diamond and Pearl''s', 'TRUE'),
+(7, 2, 'Updated Johto', 'updated-johto', 'HeartGold/SoulSilver Johto dex—Gold/Silver/Crystal''s, extended to add move-based Generation IV evolutions', 'TRUE'),
+(8, 5, 'Original Unova', 'original-unova', 'Black/White Unova dex', 'TRUE'),
+(9, 5, 'Updated Unova', 'updated-unova', 'Black 2/White 2 Unova dex', 'TRUE'),
+(11, null, 'Gallery', 'conquest-gallery', 'Pokémon Conquest gallery order', 'FALSE'),
+(12, 6, 'Central Kalos', 'kalos-central', null, 'TRUE'),
+(13, 6, 'Coastal Kalos', 'kalos-coastal', null, 'TRUE'),
+(14, 6, 'Mountain Kalos', 'kalos-mountain', null, 'TRUE'),
+(15, 3, 'New Hoenn', 'updated-hoenn', 'Omega Ruby/Alpha Sapphire Hoenn Dex—Ruby/Sapphire/Emerald''s, updated to add new evolutions', 'TRUE');

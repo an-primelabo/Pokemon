@@ -1,0 +1,2 @@
+INSERT INTO pkm_pokemon_species_flavor_summaries (pokemon_species_id, flavor_summary)
+VALUE;

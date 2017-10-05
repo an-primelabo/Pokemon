@@ -31,11 +31,6 @@ public class Region implements Serializable {
 		this.nameAlias = nameAlias;
 	}
 
-	public Region(String name, String nameAlias) {
-		this.name = name;
-		this.nameAlias = nameAlias;
-	}
-
 	public Integer getRegionId() {
 		return regionId;
 	}

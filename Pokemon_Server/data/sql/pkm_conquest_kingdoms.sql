@@ -1,0 +1,18 @@
+INSERT INTO pkm_conquest_kingdoms (conquest_kingdom_id, name, name_alias, type_id)
+VALUES (1, 'Aurora', 'aurora', 1),
+(2, 'Ignis', 'ignis', 10),
+(3, 'Fontaine', 'fontaine', 11),
+(4, 'Violight', 'violight', 13),
+(5, 'Greenleaf', 'greenleaf', 12),
+(6, 'Nixtorm', 'nixtorm', 15),
+(7, 'Pugilis', 'pugilis', 2),
+(8, 'Viperia', 'viperia', 4),
+(9, 'Terrera', 'terrera', 5),
+(10, 'Avia', 'avia', 3),
+(11, 'Illusio', 'illusio', 14),
+(12, 'Chrysalia', 'chrysalia', 7),
+(13, 'Cragspur', 'cragspur', 6),
+(14, 'Spectra', 'spectra', 8),
+(15, 'Dragnor', 'dragnor', 16),
+(16, 'Yaksha', 'yaksha', 17),
+(17, 'Valora', 'valora', 9);

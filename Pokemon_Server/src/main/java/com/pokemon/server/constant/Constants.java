@@ -9,8 +9,9 @@ public final class Constants {
 	}
 
 	public static final String BLANK = "";
-	public static final String PATH_FOLDER_DATA = "";
-	public static final String PATH_FILE_DATA = "";
+	public static final String NULL = "null";
+	public static final String PATH_FOLDER_DATA = System.getProperty("user.dir") + "\\data\\";
+	public static final String PATH_FOLDER_SQL = System.getProperty("user.dir") + "\\data\\sql\\";
 
 	public static final String MSG_NOT_FOUND = "{0} with 【id = {1}】 not found !";
 	public static final String MSG_TABLE_EMPTY = "Table 【{0}】 is empty !";

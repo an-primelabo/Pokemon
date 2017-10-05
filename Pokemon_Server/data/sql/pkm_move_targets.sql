@@ -1,0 +1,15 @@
+INSERT INTO pkm_move_targets (move_target_id, name, name_alias, description)
+VALUES (1, 'Specific move', 'specific-move', 'One specific move.  How this move is chosen depends upon on the move being used.'),
+(2, 'Selected Pokémon', 'selected-pokemon-me-first', 'One other Pokémon on the field, selected by the trainer.  Stolen moves reuse the same target.'),
+(3, 'Ally', 'ally', 'The user''s ally (if any).'),
+(4, 'User''s field', 'users-field', 'The user''s side of the field.  Affects the user and its ally (if any).'),
+(5, 'User or ally', 'user-or-ally', 'Either the user or its ally, selected by the trainer.'),
+(6, 'Opponent''s field', 'opponents-field', 'The opposing side of the field.  Affects opposing Pokémon.'),
+(7, 'User', 'user', 'The user.'),
+(8, 'Random opponent', 'random-opponent', 'One opposing Pokémon, selected at random.'),
+(9, 'All other Pokémon', 'all-other-pokemon', 'Every other Pokémon on the field.'),
+(10, 'Selected Pokémon', 'selected-pokemon', 'One other Pokémon on the field, selected by the trainer.'),
+(11, 'All opponents', 'all-opponents', 'All opposing Pokémon.'),
+(12, 'Entire field', 'entire-field', 'The entire field.  Affects all Pokémon.'),
+(13, 'User and allies', 'user-and-allies', 'The user and its allies.'),
+(14, 'All Pokémon', 'all-pokemon', 'Every Pokémon on the field.');
