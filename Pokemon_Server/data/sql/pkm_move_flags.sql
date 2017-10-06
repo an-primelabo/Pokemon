@@ -1,5 +1,5 @@
-INSERT INTO pkm_move_flags (move_flag_id, name, name_alias, description)
-VALUES (1, 'Makes contact', 'contact', 'User touches the target.  This triggers some abilities (e.g., []{ability:static}) and items (e.g., []{item:sticky-barb}).'),
+INSERT INTO pkm_move_flags (move_flag_id, name, name_alias, description) VALUES
+(1, 'Makes contact', 'contact', 'User touches the target.  This triggers some abilities (e.g., []{ability:static}) and items (e.g., []{item:sticky-barb}).'),
 (2, 'Has a charging turn', 'charge', 'This move has a charging turn that can be skipped with a []{item:power-herb}.'),
 (3, 'Must recharge', 'recharge', 'The turn after this move is used, the Pokémon''s action is skipped so it can recharge.'),
 (4, 'Blocked by Detect and Protect', 'protect', 'This move will not work if the target has used []{move:detect} or []{move:protect} this turn.'),

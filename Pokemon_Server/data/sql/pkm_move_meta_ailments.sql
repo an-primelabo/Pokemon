@@ -1,5 +1,5 @@
-INSERT INTO pkm_move_meta_ailments (move_meta_ailment_id, name, name_alias)
-VALUES (-1, '????', 'unknown'),
+INSERT INTO pkm_move_meta_ailments (move_meta_ailment_id, name, name_alias) VALUES
+(-1, '????', 'unknown'),
 (0, 'none', 'none'),
 (1, 'Paralysis', 'paralysis'),
 (2, 'Sleep', 'sleep'),

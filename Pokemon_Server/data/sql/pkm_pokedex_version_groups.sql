@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokedex_version_groups (pokedex_id, version_group_id)
-VALUES (2, 1),
+INSERT INTO pkm_pokedex_version_groups (pokedex_id, version_group_id) VALUES
+(2, 1),
 (2, 2),
 (2, 7),
 (3, 3),

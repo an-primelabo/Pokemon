@@ -1,5 +1,5 @@
-INSERT INTO pkm_experience (growth_rate_id, level, experience)
-VALUES (1, 1, 0),
+INSERT INTO pkm_experience (growth_rate_id, level, experience) VALUES
+(1, 1, 0),
 (1, 2, 10),
 (1, 3, 33),
 (1, 4, 80),

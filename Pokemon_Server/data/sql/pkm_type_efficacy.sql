@@ -1,5 +1,5 @@
-INSERT INTO pkm_type_efficacy (damage_type_id, target_type_id, damage_factor)
-VALUES (1, 1, 100),
+INSERT INTO pkm_type_efficacy (damage_type_id, target_type_id, damage_factor) VALUES
+(1, 1, 100),
 (1, 2, 100),
 (1, 3, 100),
 (1, 4, 100),

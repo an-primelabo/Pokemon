@@ -1,5 +1,5 @@
-INSERT INTO pkm_ability_flavor_text (ability_id, version_group_id, flavor_text)
-VALUES (1, 5, 'Helps repel wild Pokémon.'),
+INSERT INTO pkm_ability_flavor_text (ability_id, version_group_id, flavor_text) VALUES
+(1, 5, 'Helps repel wild Pokémon.'),
 (1, 6, 'Helps repel wild Pokémon.'),
 (1, 7, 'Helps repel wild Pokémon.'),
 (1, 8, 'The stench helps keep wild Pokémon away.'),

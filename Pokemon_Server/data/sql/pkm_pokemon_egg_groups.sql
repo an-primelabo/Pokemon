@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_egg_groups (pokemon_species_id, egg_group_id)
-VALUES (1, 1),
+INSERT INTO pkm_pokemon_egg_groups (pokemon_species_id, egg_group_id) VALUES
+(1, 1),
 (1, 7),
 (2, 1),
 (2, 7),

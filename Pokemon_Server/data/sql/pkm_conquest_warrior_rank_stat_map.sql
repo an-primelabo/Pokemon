@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_warrior_rank_stat_map (conquest_warrior_rank_id, conquest_warrior_stat_id, base_stat)
-VALUES (1, 1, 65),
+INSERT INTO pkm_conquest_warrior_rank_stat_map (conquest_warrior_rank_id, conquest_warrior_stat_id, base_stat) VALUES
+(1, 1, 65),
 (1, 2, 60),
 (1, 3, 65),
 (1, 4, 4),

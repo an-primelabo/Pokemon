@@ -1,5 +1,5 @@
-INSERT INTO pkm_encounter_slots (encounter_slot_id, version_group_id, encounter_method_id, slot, rarity)
-VALUES (1, 8, 1, 1, 20),
+INSERT INTO pkm_encounter_slots (encounter_slot_id, version_group_id, encounter_method_id, slot, rarity) VALUES
+(1, 8, 1, 1, 20),
 (2, 8, 1, 2, 20),
 (3, 8, 1, 3, 10),
 (4, 8, 1, 4, 10),

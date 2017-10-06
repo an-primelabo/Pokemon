@@ -1,5 +1,5 @@
-INSERT INTO pkm_egg_groups (egg_group_id, name, name_alias)
-VALUES (1, 'Monster', 'monster'),
+INSERT INTO pkm_egg_groups (egg_group_id, name, name_alias) VALUES
+(1, 'Monster', 'monster'),
 (2, 'Water 1', 'water1'),
 (3, 'Bug', 'bug'),
 (4, 'Flying', 'flying'),

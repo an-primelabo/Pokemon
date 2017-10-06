@@ -1,5 +1,5 @@
-INSERT INTO pkm_item_categories (item_category_id, item_pocket_id, name, name_alias)
-VALUES (1, 7, 'Stat boosts', 'stat-boosts'),
+INSERT INTO pkm_item_categories (item_category_id, item_pocket_id, name, name_alias) VALUES
+(1, 7, 'Stat boosts', 'stat-boosts'),
 (2, 5, 'Effort drop', 'effort-drop'),
 (3, 5, 'Medicine', 'medicine'),
 (4, 5, 'Other', 'other'),

@@ -1,5 +1,5 @@
-INSERT INTO pkm_items (item_id, name, name_alias, item_category_id, cost, fling_power, item_fling_effect_id, short_effect, effect)
-VALUES (1, 'Master Ball', 'master-ball', 34, 0, null, null, 'Catches a wild Pokémon every time.', 'Used in battle : [Catches]{mechanic:catch} a wild Pokémon without fail. If used in a trainer battle, nothing happens and the ball is lost.'),
+INSERT INTO pkm_items (item_id, name, name_alias, item_category_id, cost, fling_power, item_fling_effect_id, short_effect, effect) VALUES
+(1, 'Master Ball', 'master-ball', 34, 0, null, null, 'Catches a wild Pokémon every time.', 'Used in battle : [Catches]{mechanic:catch} a wild Pokémon without fail. If used in a trainer battle, nothing happens and the ball is lost.'),
 (2, 'Ultra Ball', 'ultra-ball', 34, 800, null, null, 'Tries to catch a wild Pokémon. Success rate is 2×.', 'Used in battle : Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 2×. If used in a trainer battle, nothing happens and the ball is lost.'),
 (3, 'Great Ball', 'great-ball', 34, 600, null, null, 'Tries to catch a wild Pokémon. Success rate is 1.5×.', 'Used in battle : Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 1.5×. If used in a trainer battle, nothing happens and the ball is lost.'),
 (4, 'Poké Ball', 'poke-ball', 34, 200, null, null, 'Tries to catch a wild Pokémon.', 'Used in battle : Attempts to [catch]{mechanic:catch} a wild Pokémon, using a catch rate of 1×. If used in a trainer battle, nothing happens and the ball is lost.'),

@@ -1,5 +1,5 @@
-INSERT INTO pkm_pal_park (pokemon_species_id, pal_park_area_id, base_score, rate)
-VALUES (1, 2, 50, 30),
+INSERT INTO pkm_pal_park (pokemon_species_id, pal_park_area_id, base_score, rate) VALUES
+(1, 2, 50, 30),
 (2, 2, 80, 10),
 (3, 2, 90, 3),
 (4, 2, 50, 30),

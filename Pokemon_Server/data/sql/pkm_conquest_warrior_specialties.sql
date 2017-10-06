@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_warrior_specialties (conquest_warrior_id, type_id, slot)
-VALUES (1, 1, 1),
+INSERT INTO pkm_conquest_warrior_specialties (conquest_warrior_id, type_id, slot) VALUES
+(1, 1, 1),
 (2, 1, 1),
 (3, 13, 2),
 (3, 16, 1),

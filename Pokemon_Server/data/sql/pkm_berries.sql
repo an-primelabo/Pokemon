@@ -1,5 +1,5 @@
-INSERT INTO pkm_berries (berry_id, item_id, berry_firmness_id, natural_gift_power, natural_gift_type_id, size, max_harvest, growth_time, soil_dryness, smoothness)
-VALUES (1, 126, 2, 60, 10, 20, 5, 3, 15, 25),
+INSERT INTO pkm_berries (berry_id, item_id, berry_firmness_id, natural_gift_power, natural_gift_type_id, size, max_harvest, growth_time, soil_dryness, smoothness) VALUES
+(1, 126, 2, 60, 10, 20, 5, 3, 15, 25),
 (2, 127, 5, 60, 11, 80, 5, 3, 15, 25),
 (3, 128, 1, 60, 13, 40, 5, 3, 15, 25),
 (4, 129, 3, 60, 12, 32, 5, 3, 15, 25),

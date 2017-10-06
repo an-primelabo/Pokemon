@@ -1,5 +1,5 @@
-INSERT INTO pkm_move_effects (move_effect_id, short_effect, effect)
-VALUES (1, 'Inflicts regular damage with no additional effect.', 'Inflicts [regular damage]{mechanic:regular-damage}.'),
+INSERT INTO pkm_move_effects (move_effect_id, short_effect, effect) VALUES
+(1, 'Inflicts regular damage with no additional effect.', 'Inflicts [regular damage]{mechanic:regular-damage}.'),
 (2, 'Puts the target to sleep.', 'Puts the target to [sleep]{mechanic:sleep}.'),
 (3, 'Has a $effect_chance% chance to [poison]{mechanic:poison} the target.', 'Inflicts [regular damage]{mechanic:regular-damage}. Has a $effect_chance% chance to [poison]{mechanic:poison} the target.'),
 (4, 'Drains half the damage inflicted to heal the user.', 'Inflicts [regular damage]{mechanic:regular-damage}. [Drains]{mechanic:drain} half the damage inflicted to heal the user.'),

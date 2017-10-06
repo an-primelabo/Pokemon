@@ -1,5 +1,5 @@
-INSERT INTO pkm_move_effect_changelog (move_effect_changelog_id, move_effect_id, changed_in_version_group_id, effect)
-VALUES (1, 8, 11, 'Halves the target''s [Defense]{mechanic:defense} for damage calculation, which is similar to doubling the attack''s [power]{mechanic:power}.'),
+INSERT INTO pkm_move_effect_changelog (move_effect_changelog_id, move_effect_id, changed_in_version_group_id, effect) VALUES
+(1, 8, 11, 'Halves the target''s [Defense]{mechanic:defense} for damage calculation, which is similar to doubling the attack''s [power]{mechanic:power}.'),
 (2, 18, 3, 'Hits Pokémon under the effects of []{move:dig} and []{move:fly}.'),
 (3, 29, 3, 'Does nothing in trainer battles.'),
 (4, 38, 8, 'Works while asleep through []{move:sleep-talk} if not at full health.'),

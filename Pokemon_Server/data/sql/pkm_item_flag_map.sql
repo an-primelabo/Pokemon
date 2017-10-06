@@ -1,5 +1,5 @@
-INSERT INTO pkm_item_flag_map (item_id, item_flag_id)
-VALUES (1, 1),
+INSERT INTO pkm_item_flag_map (item_id, item_flag_id) VALUES
+(1, 1),
 (1, 2),
 (1, 4),
 (1, 5),

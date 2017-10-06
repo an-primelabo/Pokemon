@@ -1,5 +1,5 @@
-INSERT INTO pkm_encounter_methods (encounter_method_id, name, name_alias, order_no)
-VALUES (1, 'Walking in tall grass or a cave', 'walk', 1),
+INSERT INTO pkm_encounter_methods (encounter_method_id, name, name_alias, order_no) VALUES
+(1, 'Walking in tall grass or a cave', 'walk', 1),
 (2, 'Fishing with an Old Rod', 'old-rod', 10),
 (3, 'Fishing with a Good Rod', 'good-rod', 11),
 (4, 'Fishing with a Super Rod', 'super-rod', 12),

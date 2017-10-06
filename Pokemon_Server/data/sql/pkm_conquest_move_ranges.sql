@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_move_ranges (conquest_move_range_id, name, name_alias, targets, description)
-VALUES (1, 'User', 'user', 1, 'The user.'),
+INSERT INTO pkm_conquest_move_ranges (conquest_move_range_id, name, name_alias, targets, description) VALUES
+(1, 'User', 'user', 1, 'The user.'),
 (2, 'Single tile', 'tile-1-ahead', 1, 'A single tile directly in front of the user.'),
 (3, 'Two-tile column', 'column-2-tiles', 2, 'Two tiles in a column in front of the user.'),
 (4, 'Three-tile column', 'column-3-tiles', 3, 'Three tiles in a column in front of the user.'),

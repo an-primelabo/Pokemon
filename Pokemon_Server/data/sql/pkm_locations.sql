@@ -1,5 +1,5 @@
-INSERT INTO pkm_locations (location_id, region_id, name, name_alias)
-VALUES (1, 4, 'Canalave City', 'canalave-city'),
+INSERT INTO pkm_locations (location_id, region_id, name, name_alias) VALUES
+(1, 4, 'Canalave City', 'canalave-city'),
 (2, 4, 'Eterna City', 'eterna-city'),
 (3, 4, 'Pastoria City', 'pastoria-city'),
 (4, 4, 'Sunyshore City', 'sunyshore-city'),

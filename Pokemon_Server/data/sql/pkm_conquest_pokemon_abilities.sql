@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_pokemon_abilities (pokemon_species_id, slot, ability_id)
-VALUES (4, 1, 66),
+INSERT INTO pkm_conquest_pokemon_abilities (pokemon_species_id, slot, ability_id) VALUES
+(4, 1, 66),
 (4, 2, 10016),
 (4, 3, 10028),
 (5, 1, 66),

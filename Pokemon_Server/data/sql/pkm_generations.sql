@@ -1,5 +1,5 @@
-INSERT INTO pkm_generations (generation_id, region_id, name, name_alias)
-VALUES (1, 1, 'Generation I', 'generation-i'),
+INSERT INTO pkm_generations (generation_id, region_id, name, name_alias) VALUES
+(1, 1, 'Generation I', 'generation-i'),
 (2, 2, 'Generation II', 'generation-ii'),
 (3, 3, 'Generation III', 'generation-iii'),
 (4, 4, 'Generation IV', 'generation-iv'),

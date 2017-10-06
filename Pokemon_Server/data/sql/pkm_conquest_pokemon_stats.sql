@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_pokemon_stats (pokemon_species_id, conquest_stat_id, base_stat)
-VALUES (4, 1, 188),
+INSERT INTO pkm_conquest_pokemon_stats (pokemon_species_id, conquest_stat_id, base_stat) VALUES
+(4, 1, 188),
 (4, 2, 125),
 (4, 3, 97),
 (4, 4, 135),

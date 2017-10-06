@@ -1,5 +1,5 @@
-INSERT INTO pkm_characteristics (characteristic_id, stat_id, gene_mod_5, message)
-VALUES (1, 1, 0, 'Loves to eat'),
+INSERT INTO pkm_characteristics (characteristic_id, stat_id, gene_mod_5, message) VALUES
+(1, 1, 0, 'Loves to eat'),
 (2, 2, 0, 'Proud of its power'),
 (3, 3, 0, 'Sturdy body'),
 (4, 4, 0, 'Highly curious'),

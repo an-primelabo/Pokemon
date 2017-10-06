@@ -1,5 +1,5 @@
-INSERT INTO pkm_versions (version_id, version_group_id, name, name_alias)
-VALUES (1, 1, 'Red', 'red'),
+INSERT INTO pkm_versions (version_id, version_group_id, name, name_alias) VALUES
+(1, 1, 'Red', 'red'),
 (2, 1, 'Blue', 'blue'),
 (3, 2, 'Yellow', 'yellow'),
 (4, 3, 'Gold', 'gold'),

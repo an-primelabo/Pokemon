@@ -1,5 +1,5 @@
-INSERT INTO pkm_moves (move_id, name, name_alias, generation_id, type_id, power, pp, accuracy, priority, move_target_id, move_damage_class_id, move_effect_id, effect_chance, contest_type_id, contest_effect_id, super_contest_effect_id)
-VALUES (1, 'Pound', 'pound', 1, 1, 40, 35, 100, 0, 10, 2, 1, null, 5, 1, 5),
+INSERT INTO pkm_moves (move_id, name, name_alias, generation_id, type_id, power, pp, accuracy, priority, move_target_id, move_damage_class_id, move_effect_id, effect_chance, contest_type_id, contest_effect_id, super_contest_effect_id) VALUES
+(1, 'Pound', 'pound', 1, 1, 40, 35, 100, 0, 10, 2, 1, null, 5, 1, 5),
 (2, 'Karate Chop', 'karate-chop', 1, 2, 50, 25, 100, 0, 10, 2, 44, null, 5, 2, 5),
 (3, 'Double Slap', 'double-slap', 1, 1, 15, 10, 85, 0, 10, 2, 30, null, 5, 10, 7),
 (4, 'Comet Punch', 'comet-punch', 1, 1, 18, 15, 85, 0, 10, 2, 30, null, 5, 12, 7),

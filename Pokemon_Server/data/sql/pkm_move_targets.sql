@@ -1,5 +1,5 @@
-INSERT INTO pkm_move_targets (move_target_id, name, name_alias, description)
-VALUES (1, 'Specific move', 'specific-move', 'One specific move.  How this move is chosen depends upon on the move being used.'),
+INSERT INTO pkm_move_targets (move_target_id, name, name_alias, description) VALUES
+(1, 'Specific move', 'specific-move', 'One specific move.  How this move is chosen depends upon on the move being used.'),
 (2, 'Selected Pokémon', 'selected-pokemon-me-first', 'One other Pokémon on the field, selected by the trainer.  Stolen moves reuse the same target.'),
 (3, 'Ally', 'ally', 'The user''s ally (if any).'),
 (4, 'User''s field', 'users-field', 'The user''s side of the field.  Affects the user and its ally (if any).'),

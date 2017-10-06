@@ -1,5 +1,5 @@
-INSERT INTO pkm_type_game_indices (type_id, generation_id, game_index)
-VALUES (1, 1, 0),
+INSERT INTO pkm_type_game_indices (type_id, generation_id, game_index) VALUES
+(1, 1, 0),
 (1, 2, 0),
 (1, 3, 0),
 (1, 4, 0),

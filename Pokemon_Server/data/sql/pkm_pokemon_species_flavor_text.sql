@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_species_flavor_text (pokemon_species_id, version_id, flavor_text)
-VALUES (1, 1, 'A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.'),
+INSERT INTO pkm_pokemon_species_flavor_text (pokemon_species_id, version_id, flavor_text) VALUES
+(1, 1, 'A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.'),
 (1, 2, 'A strange seed was planted on its back at birth. The plant sprouts and grows with this POKéMON.'),
 (1, 3, 'It can go for days without eating a single morsel. In the bulb on its back, it stores energy.'),
 (1, 4, 'The seed on its back is filled with nutrients. The seed grows steadily larger as its body grows.'),

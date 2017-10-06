@@ -1,5 +1,5 @@
-INSERT INTO pkm_types (type_id, name, name_alias, generation_id, move_damage_class_id)
-VALUES (1, 'Normal', 'normal', 1, 2),
+INSERT INTO pkm_types (type_id, name, name_alias, generation_id, move_damage_class_id) VALUES
+(1, 'Normal', 'normal', 1, 2),
 (2, 'Fighting', 'fighting', 1, 2),
 (3, 'Flying', 'flying', 1, 2),
 (4, 'Poison', 'poison', 1, 2),

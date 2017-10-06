@@ -1,5 +1,5 @@
-INSERT INTO pkm_location_areas (location_area_id, location_id, game_index, name, name_alias)
-VALUES (1, 1, 1, null, null),
+INSERT INTO pkm_location_areas (location_area_id, location_id, game_index, name, name_alias) VALUES
+(1, 1, 1, null, null),
 (2, 2, 2, null, null),
 (3, 3, 3, null, null),
 (4, 4, 4, null, null),

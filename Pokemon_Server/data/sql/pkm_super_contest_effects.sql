@@ -1,5 +1,5 @@
-INSERT INTO pkm_super_contest_effects (super_contest_effect_id, appeal, flavor_text)
-VALUES (1, 2, 'Enables the user to perform first in the next turn.'),
+INSERT INTO pkm_super_contest_effects (super_contest_effect_id, appeal, flavor_text) VALUES
+(1, 2, 'Enables the user to perform first in the next turn.'),
 (2, 2, 'Enables the user to perform last in the next turn.'),
 (4, 2, 'Earn +2 if the Judge''s Voltage goes up.'),
 (5, 3, 'A basic performance using a move known by the Pokémon.'),

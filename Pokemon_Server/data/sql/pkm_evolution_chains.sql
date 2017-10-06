@@ -1,5 +1,5 @@
-INSERT INTO pkm_evolution_chains (evolution_chain_id, baby_trigger_item_id)
-VALUES (1, null),
+INSERT INTO pkm_evolution_chains (evolution_chain_id, baby_trigger_item_id) VALUES
+(1, null),
 (2, null),
 (3, null),
 (4, null),

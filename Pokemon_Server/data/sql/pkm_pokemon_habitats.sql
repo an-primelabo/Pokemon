@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_habitats (pokemon_habitat_id, name, name_alias)
-VALUES (1, 'cave', 'cave'),
+INSERT INTO pkm_pokemon_habitats (pokemon_habitat_id, name, name_alias) VALUES
+(1, 'cave', 'cave'),
 (2, 'forest', 'forest'),
 (3, 'grassland', 'grassland'),
 (4, 'mountain', 'mountain'),

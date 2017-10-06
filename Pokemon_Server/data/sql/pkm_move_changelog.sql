@@ -1,5 +1,5 @@
-INSERT INTO pkm_move_changelog (move_id, changed_in_version_group_id, type_id, power, pp, accuracy, priority, move_target_id, move_effect_id, effect_chance)
-VALUES (2, 3, 1, null, null, null, null, null, null, null),
+INSERT INTO pkm_move_changelog (move_id, changed_in_version_group_id, type_id, power, pp, accuracy, priority, move_target_id, move_effect_id, effect_chance) VALUES
+(2, 3, 1, null, null, null, null, null, null, null),
 (13, 5, null, null, null, 75, null, null, null, null),
 (14, 15, null, null, 30, null, null, null, null, null),
 (16, 3, 1, null, null, null, null, null, 1, null),

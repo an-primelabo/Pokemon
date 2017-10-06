@@ -1,5 +1,5 @@
-INSERT INTO pkm_nature_pokeathlon_stats (nature_id, pokeathlon_stat_id, max_change)
-VALUES (1, 1, -1),
+INSERT INTO pkm_nature_pokeathlon_stats (nature_id, pokeathlon_stat_id, max_change) VALUES
+(1, 1, -1),
 (1, 2, 1),
 (2, 1, -2),
 (2, 3, 2),

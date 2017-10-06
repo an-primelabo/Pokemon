@@ -1,5 +1,5 @@
-INSERT INTO pkm_nature_battle_style_preferences (nature_id, move_battle_style_id, low_hp_preference, high_hp_preference)
-VALUES (1, 1, 61, 61),
+INSERT INTO pkm_nature_battle_style_preferences (nature_id, move_battle_style_id, low_hp_preference, high_hp_preference) VALUES
+(1, 1, 61, 61),
 (1, 2, 7, 7),
 (1, 3, 32, 32),
 (2, 1, 32, 30),

@@ -1,5 +1,5 @@
-INSERT INTO pkm_growth_rates (growth_rate_id, name, name_alias, formula)
-VALUES (1, 'slow', 'slow', '\frac{5x^3}{4}'),
+INSERT INTO pkm_growth_rates (growth_rate_id, name, name_alias, formula) VALUES
+(1, 'slow', 'slow', '\frac{5x^3}{4}'),
 (2, 'medium', 'medium', 'x^3'),
 (3, 'fast', 'fast', '\frac{4x^3}{5}'),
 (4, 'medium slow', 'medium-slow', '\frac{6x^3}{5} - 15x^2 + 100x - 140'),

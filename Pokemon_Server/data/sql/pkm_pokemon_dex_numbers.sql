@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_dex_numbers (pokemon_species_id, pokedex_id, pokedex_number)
-VALUES (1, 1, 1),
+INSERT INTO pkm_pokemon_dex_numbers (pokemon_species_id, pokedex_id, pokedex_number) VALUES
+(1, 1, 1),
 (1, 2, 1),
 (1, 3, 226),
 (1, 7, 231),

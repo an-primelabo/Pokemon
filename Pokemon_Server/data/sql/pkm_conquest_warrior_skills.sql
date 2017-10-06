@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_warrior_skills (conquest_warrior_skill_id, name, name_alias)
-VALUES (1, 'Adrenaline', 'adrenaline'),
+INSERT INTO pkm_conquest_warrior_skills (conquest_warrior_skill_id, name, name_alias) VALUES
+(1, 'Adrenaline', 'adrenaline'),
 (2, 'Fortify', 'fortify'),
 (3, 'Top Speed', 'top-speed'),
 (4, 'Rally', 'rally'),

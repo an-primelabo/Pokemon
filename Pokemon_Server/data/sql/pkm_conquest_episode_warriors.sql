@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_episode_warriors (conquest_episode_warrior_id, conquest_warrior_id)
-VALUES (1, 1),
+INSERT INTO pkm_conquest_episode_warriors (conquest_episode_warrior_id, conquest_warrior_id) VALUES
+(1, 1),
 (1, 2),
 (2, 3),
 (3, 5),

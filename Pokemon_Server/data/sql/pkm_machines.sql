@@ -1,5 +1,5 @@
-INSERT INTO pkm_machines (machine_number, version_group_id, item_id, move_id)
-VALUES (1, 1, 305, 5),
+INSERT INTO pkm_machines (machine_number, version_group_id, item_id, move_id) VALUES
+(1, 1, 305, 5),
 (1, 2, 305, 5),
 (1, 3, 305, 223),
 (1, 4, 305, 223),

@@ -1,5 +1,5 @@
-INSERT INTO pkm_move_meta (move_id, move_meta_category_id, move_meta_ailment_id, min_hits, max_hits, min_turns, max_turns, drain, healing, crit_rate, ailment_chance, flinch_chance, stat_chance)
-VALUES (1, 0, 0, null, null, null, null, 0, 0, 0, 0, 0, 0),
+INSERT INTO pkm_move_meta (move_id, move_meta_category_id, move_meta_ailment_id, min_hits, max_hits, min_turns, max_turns, drain, healing, crit_rate, ailment_chance, flinch_chance, stat_chance) VALUES
+(1, 0, 0, null, null, null, null, 0, 0, 0, 0, 0, 0),
 (2, 0, 0, null, null, null, null, 0, 0, 1, 0, 0, 0),
 (3, 0, 0, 2, 5, null, null, 0, 0, 0, 0, 0, 0),
 (4, 0, 0, 2, 5, null, null, 0, 0, 0, 0, 0, 0),

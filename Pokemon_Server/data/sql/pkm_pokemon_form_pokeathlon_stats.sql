@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_form_pokeathlon_stats (pokemon_form_id, pokeathlon_stat_id, minimum_stat, base_stat, maximum_stat)
-VALUES (1, 1, 2, 2, 3),
+INSERT INTO pkm_pokemon_form_pokeathlon_stats (pokemon_form_id, pokeathlon_stat_id, minimum_stat, base_stat, maximum_stat) VALUES
+(1, 1, 2, 2, 3),
 (1, 2, 2, 2, 3),
 (1, 3, 1, 3, 4),
 (1, 4, 1, 3, 4),

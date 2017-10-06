@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_shapes (pokemon_shape_id, name, name_alias, name_awesome, description)
-VALUES (1, 'Ball', 'ball', 'Pomaceous', 'Pokémon consisting of only a head'),
+INSERT INTO pkm_pokemon_shapes (pokemon_shape_id, name, name_alias, name_awesome, description) VALUES
+(1, 'Ball', 'ball', 'Pomaceous', 'Pokémon consisting of only a head'),
 (2, 'Squiggle', 'squiggle', 'Caudal', 'Pokémon with serpentine bodies'),
 (3, 'Fish', 'fish', 'Ichthyic', 'Pokémon with fins'),
 (4, 'Arms', 'arms', 'Brachial', 'Pokémon consisting of a head and arms'),

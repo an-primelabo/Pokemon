@@ -1,5 +1,5 @@
-INSERT INTO pkm_encounters (encounter_id, version_id, location_area_id, encounter_slot_id, pokemon_id, min_level, max_level)
-VALUES (1, 12, 1, 28, 72, 20, 30),
+INSERT INTO pkm_encounters (encounter_id, version_id, location_area_id, encounter_slot_id, pokemon_id, min_level, max_level) VALUES
+(1, 12, 1, 28, 72, 20, 30),
 (2, 12, 1, 29, 278, 20, 30),
 (3, 12, 1, 30, 73, 20, 40),
 (4, 12, 1, 31, 279, 20, 40),

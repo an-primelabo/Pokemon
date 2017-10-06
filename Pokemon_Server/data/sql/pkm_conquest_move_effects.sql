@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_move_effects (conquest_move_effect_id, short_effect, effect)
-VALUES (1, 'Inflicts exactly 40 HP in damage.', 'Inflicts exactly 40 HP in damage, unaffected by stats or types.'),
+INSERT INTO pkm_conquest_move_effects (conquest_move_effect_id, short_effect, effect) VALUES
+(1, 'Inflicts exactly 40 HP in damage.', 'Inflicts exactly 40 HP in damage, unaffected by stats or types.'),
 (2, 'Has double power if $target has a major status ailment.', 'Inflicts regular damage.  Has double power if $target has a major status ailment.'),
 (3, 'Doubles in power with each consecutive successful use.', 'Inflicts regular damage.  Every time this move succeeds, its power doubles; if it fails or is not used for a turn, it resets.'),
 (4, 'Ignores $target''s stat modifiers.', 'Inflicts damage, ignoring $target''s stat modifiers.'),

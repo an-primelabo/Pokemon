@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_warrior_ranks (conquest_warrior_rank_id, conquest_warrior_id, rank, conquest_warrior_skill_id)
-VALUES (1, 1, 1, 3),
+INSERT INTO pkm_conquest_warrior_ranks (conquest_warrior_rank_id, conquest_warrior_id, rank, conquest_warrior_skill_id) VALUES
+(1, 1, 1, 3),
 (2, 1, 2, 24),
 (3, 1, 3, 25),
 (4, 2, 1, 3),

@@ -1,5 +1,5 @@
-INSERT INTO pkm_move_meta_stat_changes (move_id, stat_id, change)
-VALUES (14, 2, 2),
+INSERT INTO pkm_move_meta_stat_changes (move_id, stat_id, change) VALUES
+(14, 2, 2),
 (28, 7, -1),
 (39, 3, -1),
 (43, 3, -1),

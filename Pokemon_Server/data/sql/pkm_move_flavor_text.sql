@@ -1,5 +1,5 @@
-INSERT INTO pkm_move_flavor_text (move_id, version_group_id, flavor_text)
-VALUES (1, 3, 'Pounds with fore-legs or tail.'),
+INSERT INTO pkm_move_flavor_text (move_id, version_group_id, flavor_text) VALUES
+(1, 3, 'Pounds with fore-legs or tail.'),
 (1, 4, 'Pounds with fore-legs or tail.'),
 (1, 5, 'Pounds the foe with forelegs or tail.'),
 (1, 6, 'Pounds the foe with forelegs or tail.'),

@@ -1,5 +1,5 @@
-INSERT INTO pkm_item_flavor_text (item_id, version_group_id, flavor_text)
-VALUES (1, 5, 'The best BALL that catches a POKéMON without fail.'),
+INSERT INTO pkm_item_flavor_text (item_id, version_group_id, flavor_text) VALUES
+(1, 5, 'The best BALL that catches a POKéMON without fail.'),
 (1, 6, 'The best BALL that catches a POKéMON without fail.'),
 (1, 7, 'The best BALL with the ultimate performance. It will catch any wild POKéMON without fail.'),
 (1, 8, 'The best Ball with the ultimate level of performance. It will catch any wild Pokémon without fail.'),

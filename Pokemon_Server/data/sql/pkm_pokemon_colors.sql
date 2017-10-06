@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_colors (pokemon_color_id, name, name_alias)
-VALUES (1, 'Black', 'black'),
+INSERT INTO pkm_pokemon_colors (pokemon_color_id, name, name_alias) VALUES
+(1, 'Black', 'black'),
 (2, 'Blue', 'blue'),
 (3, 'Brown', 'brown'),
 (4, 'Gray', 'gray'),

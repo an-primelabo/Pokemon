@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_move_methods (pokemon_move_method_id, name, name_alias, description)
-VALUES (1, 'Level up', 'level-up', 'Learned when a Pokémon reaches a certain level.'),
+INSERT INTO pkm_pokemon_move_methods (pokemon_move_method_id, name, name_alias, description) VALUES
+(1, 'Level up', 'level-up', 'Learned when a Pokémon reaches a certain level.'),
 (2, 'Egg', 'egg', 'Appears on a newly-hatched Pokémon, if the father had the same move.'),
 (3, 'Tutor', 'tutor', 'Can be taught at any time by an NPC.'),
 (4, 'Machine', 'machine', 'Can be taught at any time by using a TM or HM.'),

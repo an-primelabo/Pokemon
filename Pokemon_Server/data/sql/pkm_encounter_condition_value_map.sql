@@ -1,5 +1,5 @@
-INSERT INTO pkm_encounter_condition_value_map (encounter_id, encounter_condition_value_id)
-VALUES (125, 2),
+INSERT INTO pkm_encounter_condition_value_map (encounter_id, encounter_condition_value_id) VALUES
+(125, 2),
 (126, 1),
 (127, 2),
 (128, 1),

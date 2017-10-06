@@ -1,5 +1,5 @@
-INSERT INTO pkm_natures (nature_id, name, name_alias, decreased_stat_id, increased_stat_id, hates_flavor_id, likes_flavor_id, game_index)
-VALUES (1, 'Hardy', 'hardy', 2, 2, 1, 1, 0),
+INSERT INTO pkm_natures (nature_id, name, name_alias, decreased_stat_id, increased_stat_id, hates_flavor_id, likes_flavor_id, game_index) VALUES
+(1, 'Hardy', 'hardy', 2, 2, 1, 1, 0),
 (2, 'Bold', 'bold', 2, 3, 1, 5, 5),
 (3, 'Modest', 'modest', 2, 4, 1, 2, 15),
 (4, 'Calm', 'calm', 2, 5, 1, 4, 20),

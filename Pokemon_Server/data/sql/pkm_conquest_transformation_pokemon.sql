@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_transformation_pokemon (conquest_transformation_pokemon_id, pokemon_species_id)
-VALUES (3, 133),
+INSERT INTO pkm_conquest_transformation_pokemon (conquest_transformation_pokemon_id, pokemon_species_id) VALUES
+(3, 133),
 (3, 134),
 (3, 135),
 (3, 136),

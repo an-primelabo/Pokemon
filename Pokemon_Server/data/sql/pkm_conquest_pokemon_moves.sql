@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_pokemon_moves (pokemon_species_id, conquest_move_id)
-VALUES (4, 52),
+INSERT INTO pkm_conquest_pokemon_moves (pokemon_species_id, conquest_move_id) VALUES
+(4, 52),
 (5, 424),
 (6, 53),
 (15, 41),

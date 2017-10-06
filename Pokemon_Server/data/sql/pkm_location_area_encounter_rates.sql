@@ -1,5 +1,5 @@
-INSERT INTO pkm_location_area_encounter_rates (location_area_id, encounter_method_id, version_id, rate)
-VALUES (1, 2, 12, 25),
+INSERT INTO pkm_location_area_encounter_rates (location_area_id, encounter_method_id, version_id, rate) VALUES
+(1, 2, 12, 25),
 (1, 2, 13, 25),
 (1, 2, 14, 25),
 (1, 3, 12, 50),

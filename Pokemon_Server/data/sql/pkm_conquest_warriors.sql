@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_warriors (conquest_warrior_id, name, name_alias, gender_id, conquest_warrior_archetype_id)
-VALUES (1, 'Player ♂', 'player-m', 2, null),
+INSERT INTO pkm_conquest_warriors (conquest_warrior_id, name, name_alias, gender_id, conquest_warrior_archetype_id) VALUES
+(1, 'Player ♂', 'player-m', 2, null),
 (2, 'Player ♀', 'player-f', 1, null),
 (3, 'Nobunaga', 'nobunaga', 2, null),
 (4, 'Oichi', 'oichi', 1, null),

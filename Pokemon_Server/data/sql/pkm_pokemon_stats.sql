@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_stats (pokemon_id, stat_id, base_stat, effort)
-VALUES (1, 1, 45, 0),
+INSERT INTO pkm_pokemon_stats (pokemon_id, stat_id, base_stat, effort) VALUES
+(1, 1, 45, 0),
 (1, 2, 49, 0),
 (1, 3, 49, 0),
 (1, 4, 65, 1),

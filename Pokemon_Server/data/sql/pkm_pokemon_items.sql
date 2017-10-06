@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_items (pokemon_id, version_id, item_id, rarity)
-VALUES (12, 7, 199, 5),
+INSERT INTO pkm_pokemon_items (pokemon_id, version_id, item_id, rarity) VALUES
+(12, 7, 199, 5),
 (12, 8, 199, 5),
 (12, 9, 199, 5),
 (12, 10, 199, 5),

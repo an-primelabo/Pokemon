@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_types (pokemon_id, type_id, slot)
-VALUES (1, 12, 1),
+INSERT INTO pkm_pokemon_types (pokemon_id, type_id, slot) VALUES
+(1, 12, 1),
 (1, 4, 2),
 (2, 12, 1),
 (2, 4, 2),

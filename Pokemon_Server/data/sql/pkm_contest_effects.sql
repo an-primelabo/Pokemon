@@ -1,5 +1,5 @@
-INSERT INTO pkm_contest_effects (contest_effect_id, appeal, jam, flavor_text, effect)
-VALUES (1, 4, 0, 'A highly appealing move.', 'Gives a high number of appeal points wth no other effects.'),
+INSERT INTO pkm_contest_effects (contest_effect_id, appeal, jam, flavor_text, effect) VALUES
+(1, 4, 0, 'A highly appealing move.', 'Gives a high number of appeal points wth no other effects.'),
 (2, 3, 0, 'Affected by how well the appeal in front goes.', 'If the Pokémon that appealed before the user earned less than three appeal points, user earns six; if three, user earns three; if more than three, user earns none.'),
 (3, 6, 0, 'After this move, the user is more easily startled.', 'If the user is jammed this turn after using this move, it will receive twice as many jam points.'),
 (4, 1, 4, 'Badly startles the Pokémon in front.', 'Attempts to jam the Pokémon that appealed before the user.'),

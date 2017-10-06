@@ -1,5 +1,5 @@
-INSERT INTO pkm_pokemon_game_indices (pokemon_id, version_id, game_index)
-VALUES (1, 1, 153),
+INSERT INTO pkm_pokemon_game_indices (pokemon_id, version_id, game_index) VALUES
+(1, 1, 153),
 (1, 2, 153),
 (1, 3, 153),
 (1, 4, 1),

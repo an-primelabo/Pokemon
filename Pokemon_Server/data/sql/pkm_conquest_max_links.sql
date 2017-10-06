@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_max_links (conquest_warrior_rank_id, pokemon_species_id, max_link)
-VALUES (1, 4, 86),
+INSERT INTO pkm_conquest_max_links (conquest_warrior_rank_id, pokemon_species_id, max_link) VALUES
+(1, 4, 86),
 (1, 5, 90),
 (1, 6, 90),
 (1, 15, 78),

@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_move_data (conquest_move_id, power, accuracy, effect_chance, conquest_move_effect_id, conquest_move_range_id, conquest_move_displacement_id)
-VALUES (1, 26, 100, null, 60, 2, null),
+INSERT INTO pkm_conquest_move_data (conquest_move_id, power, accuracy, effect_chance, conquest_move_effect_id, conquest_move_range_id, conquest_move_displacement_id) VALUES
+(1, 26, 100, null, 60, 2, null),
 (2, 31, 100, null, 9, 2, null),
 (3, 10, 90, null, 14, 2, null),
 (17, 31, 100, null, 60, 2, null),

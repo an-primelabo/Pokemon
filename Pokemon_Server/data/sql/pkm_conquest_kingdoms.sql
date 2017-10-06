@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_kingdoms (conquest_kingdom_id, name, name_alias, type_id)
-VALUES (1, 'Aurora', 'aurora', 1),
+INSERT INTO pkm_conquest_kingdoms (conquest_kingdom_id, name, name_alias, type_id) VALUES
+(1, 'Aurora', 'aurora', 1),
 (2, 'Ignis', 'ignis', 10),
 (3, 'Fontaine', 'fontaine', 11),
 (4, 'Violight', 'violight', 13),

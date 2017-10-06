@@ -21,7 +21,7 @@ import com.pokemon.server.constant.Constants;
 
 public class ReadDataFiles {
 	private static final String INSERT_QUERY = "INSERT INTO ";
-	private static final String VALUES_QUERY = "VALUES ";
+	private static final String VALUES_QUERY = "VALUES";
 
 	public static void readDataFiles() {
 		File directory = new File(Constants.PATH_FOLDER_DATA);
@@ -36,7 +36,9 @@ public class ReadDataFiles {
 			String fileName = FilenameUtils.getBaseName(file.getName());
 			String script = parseToInsertScript(file.getAbsolutePath(), fileName);
 
-			writeScriptToFile(Constants.PATH_FOLDER_SQL + fileName + ".sql", script);
+			if (!script.equals(Constants.BLANK)) {
+				writeScriptToFile(Constants.PATH_FOLDER_SQL + fileName + ".sql", script);
+			}
 		}
 	}
 
@@ -56,6 +58,12 @@ public class ReadDataFiles {
 			Iterator<Row> rows = sheet.iterator();
 			int lastColumn = sheet.getRow(0).getLastCellNum();
 
+			if (sheet.getLastRowNum() == 0) {
+				fis.close();
+				workbook.close();
+
+				return Constants.BLANK;
+			}
 			while (rows.hasNext()) {
 				Row row = rows.next();
 				sql.append("(");
@@ -77,7 +85,12 @@ public class ReadDataFiles {
 							if (row.getRowNum() == 0) {
 								sql.append(cell.getStringCellValue());
 							} else {
-								sql.append("'" + cell.getStringCellValue() + "'");
+								if (cell.getStringCellValue().equalsIgnoreCase(Constants.TRUE) ||
+									cell.getStringCellValue().equalsIgnoreCase(Constants.FALSE)) {
+									sql.append(cell.getStringCellValue().toLowerCase());
+								} else {
+									sql.append("'" + cell.getStringCellValue() + "'");
+								}
 							}
 							break;
 						default:
@@ -91,7 +104,7 @@ public class ReadDataFiles {
 				sql.delete(sql.length() - 2, sql.length());
 
 				if (row.getRowNum() == 0) {
-					sql.append(")\n").append(VALUES_QUERY);
+					sql.append(") ").append(VALUES_QUERY).append("\n");
 				} else {
 					sql.append("),\n");
 				}

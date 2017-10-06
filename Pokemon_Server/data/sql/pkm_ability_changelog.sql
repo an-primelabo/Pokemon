@@ -1,5 +1,5 @@
-INSERT INTO pkm_ability_changelog (ability_changelog_id, ability_id, changed_in_version_group_id, effect)
-VALUES (1, 1, 11, 'Has no effect in battle.'),
+INSERT INTO pkm_ability_changelog (ability_changelog_id, ability_id, changed_in_version_group_id, effect) VALUES
+(1, 1, 11, 'Has no effect in battle.'),
 (2, 5, 11, 'Does not prevent regular KOs from full [HP]{mechanic:hp}.'),
 (3, 9, 6, 'Has no overworld effect.'),
 (4, 10, 8, 'Does not absorb non-damaging []{type:electric} moves, i.e. []{move:thunder-wave}.'),

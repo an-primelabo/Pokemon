@@ -1,5 +1,5 @@
-INSERT INTO pkm_move_meta_categories (move_meta_category_id, name_alias, description)
-VALUES (0, 'damage', 'Inflicts damage'),
+INSERT INTO pkm_move_meta_categories (move_meta_category_id, name_alias, description) VALUES
+(0, 'damage', 'Inflicts damage'),
 (1, 'ailment', 'No damage; inflicts status ailment'),
 (2, 'net-good-stats', 'No damage; lowers target''s stats or raises user''s stats'),
 (3, 'heal', 'No damage; heals the user'),

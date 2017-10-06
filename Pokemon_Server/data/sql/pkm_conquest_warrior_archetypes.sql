@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_warrior_archetypes (conquest_warrior_archetype_id, name_alias)
-VALUES (1, 'armor-veteran'),
+INSERT INTO pkm_conquest_warrior_archetypes (conquest_warrior_archetype_id, name_alias) VALUES
+(1, 'armor-veteran'),
 (2, 'armor-officer'),
 (3, 'armor-helmet'),
 (4, 'armor-headlight'),

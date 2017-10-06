@@ -1,5 +1,5 @@
-INSERT INTO pkm_location_game_indices (location_id, generation_id, game_index)
-VALUES (1, 4, 7),
+INSERT INTO pkm_location_game_indices (location_id, generation_id, game_index) VALUES
+(1, 4, 7),
 (2, 4, 9),
 (3, 4, 11),
 (4, 4, 13),

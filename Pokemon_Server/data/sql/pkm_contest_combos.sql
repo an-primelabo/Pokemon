@@ -1,5 +1,5 @@
-INSERT INTO pkm_contest_combos (first_move_id, second_move_id)
-VALUES (1, 3),
+INSERT INTO pkm_contest_combos (first_move_id, second_move_id) VALUES
+(1, 3),
 (1, 29),
 (1, 185),
 (7, 8),

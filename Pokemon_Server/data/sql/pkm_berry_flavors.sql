@@ -1,5 +1,5 @@
-INSERT INTO pkm_berry_flavors (berry_id, contest_type_id, flavor)
-VALUES (1, 1, 10),
+INSERT INTO pkm_berry_flavors (berry_id, contest_type_id, flavor) VALUES
+(1, 1, 10),
 (1, 2, 0),
 (1, 3, 0),
 (1, 4, 0),

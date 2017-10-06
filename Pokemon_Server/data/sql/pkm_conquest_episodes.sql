@@ -1,5 +1,5 @@
-INSERT INTO pkm_conquest_episodes (conquest_episode_id, name, name_alias)
-VALUES (1, 'The Legend of Ransei', 'the-legend-of-ransei'),
+INSERT INTO pkm_conquest_episodes (conquest_episode_id, name, name_alias) VALUES
+(1, 'The Legend of Ransei', 'the-legend-of-ransei'),
 (2, 'The Road to Conquest', 'the-road-to-conquest'),
 (3, 'Happily Ever After', 'happily-ever-after'),
 (4, 'The Burden of Peace', 'the-burden-of-peace'),

@@ -1,5 +1,5 @@
-INSERT INTO pkm_version_group_regions (version_group_id, region_id)
-VALUES (1, 1),
+INSERT INTO pkm_version_group_regions (version_group_id, region_id) VALUES
+(1, 1),
 (2, 1),
 (3, 1),
 (3, 2),

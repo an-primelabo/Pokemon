@@ -1,5 +1,5 @@
-INSERT INTO pkm_version_group_pokemon_move_methods (version_group_id, pokemon_move_method_id)
-VALUES (1, 1),
+INSERT INTO pkm_version_group_pokemon_move_methods (version_group_id, pokemon_move_method_id) VALUES
+(1, 1),
 (1, 4),
 (1, 5),
 (2, 1),
